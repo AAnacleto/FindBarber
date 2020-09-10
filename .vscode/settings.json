@@ -1,0 +1,8 @@
+{
+    "workbench.editorAssociations": [
+    
+    ],
+    "editor.formatOnSave": true,
+    "eslint.codeActionsOnSave.mode": "problems",
+    "eslint.enable": false
+}
